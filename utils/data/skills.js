@@ -18,9 +18,10 @@ export const skillsData = [
     "Firebase",
     "MaterialUI",
     "Nginx",
-    "Langchain",
+    "Flutter",
     "Python",
-    "LLMs, Generative AI",
+    "Pytorch",
+    "Tensorflow",
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
