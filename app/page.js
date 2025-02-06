@@ -13,12 +13,12 @@ import { useEffect, useState } from "react";
 
 export default function Home() {
     const [blogs, setBlogs] = useState([]);
-
+    console.log(personalData.devUserName);
     useEffect(() => {
         const fetchBlogs = async () => {
             try {
                 const res = await fetch(
-                    `https://dev.to/api/articles?username=${personalData.devUsername}`
+                    `https://dev.to/api/articles?username=${personalData.devUserName}`
                 );
                 if (!res.ok) throw new Error("Failed to fetch data");
 
