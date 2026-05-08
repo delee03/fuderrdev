@@ -10,7 +10,7 @@ function Navbar() {
                         href="/"
                         className=" text-[#16f2b3] text-3xl font-bold"
                     >
-                        Fuderr Phạm
+                        Eric Pham
                     </Link>
                 </div>
 

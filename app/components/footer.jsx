@@ -18,7 +18,7 @@ function Footer() {
                             href="https://www.linkedin.com/in/tienthuanphat/"
                             className="text-[#16f2b3]"
                         >
-                            FuderrPham
+                            Eric Phạm
                         </Link>
                     </p>
                     {/* <div className="flex items-center gap-5">

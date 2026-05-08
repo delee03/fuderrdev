@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
     title: "Portfolio of Phạm Tiến Thuận Phát - Full Stack Engineer",
     description:
-        "This is the portfolio of Phạm Tiến Thuận Phát (Fuderr Phạm). I am a full stack engineer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a fast learner and I am always looking for new challenges.",
+        "This is the portfolio of Phạm Tiến Thuận Phát (Eric Phạm). I am a full stack engineer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a fast learner and I am always looking for new challenges.",
 };
 
 export default function RootLayout({ children }) {
@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
                 </title>
                 <meta
                     name="description"
-                    content="This is the portfolio of Phạm Tiến Thuận Phát (Fuderr Phạm). I am a full stack engineer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a fast learner and I am always looking for new challenges."
+                    content="This is the portfolio of Phạm Tiến Thuận Phát (Eric Phạm). I am a full stack engineer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a fast learner and I am always looking for new challenges."
                 />
             </head>
             <body className={inter.className}>
