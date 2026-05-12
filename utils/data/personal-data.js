@@ -3,7 +3,7 @@ export const personalData = {
     profile: "/profile.png",
     designation: "Software Engineer",
     description:
-        "AWS-certified Software Engineer focused on cloud infrastructure, deployment automation, and platform engineering. Hands-on experience building and operating serverless and container-based systems on AWS (Lambda, ECS, EKS, API Gateway, CloudWatch, Bedrock, AgentCore, NovaAct), writing Terraform-managed infrastructure, and hardening CI/CD and release pipelines with Airflow, GitHub Actions, and GitOps via ArgoCD. Comfortable provisioning configs, managing secrets, tuning observability, and driving features from dev to production safely. AI and GenAI experience — multi-agent systems, LLM cost/observability — as a strong plus.",
+        "Software engineer with strong production experience in AI-native systems, seeking to pursue graduate research in Deep Learning and Computer Vision. Demonstrated rapid learning ability — progressed from entry-level to shipping production multi-agent AI architectures within 6 months. Hands-on experience with computer vision integration, inference optimization (67% cost reduction), and deploying AI systems at scale on AWS. Passionate about bridging the gap between applied AI engineering and fundamental research, particularly in scene understanding for autonomous driving and efficient deep learning for edge deployment. Self-driven researcher with proven track record of independently exploring and implementing state-of-the-art technologies.",
     email: "phamtienthuanphat.it@gmail.com",
     phone: "+84 896 555 358",
     address: "Ho Chi Minh City, Vietnam",
