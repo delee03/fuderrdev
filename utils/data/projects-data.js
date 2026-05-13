@@ -3,7 +3,7 @@ export const projectsData = [
         id: 1,
         name: 'Katalon AI Platform – Multi-Agent Orchestration System',
         description: "Enterprise-grade AI platform powering Katalon TestOps with multi-agent orchestration, RAG pipelines, and LLM-powered test automation workflows. Built as a monorepo of FastAPI microservices communicating via A2A protocol, with MCP servers providing tool-use capabilities and CopilotKit runtime enabling real-time streaming to the frontend.",
-        tools: ['Python', 'FastAPI', 'Typescript', 'ADK', 'A2A', 'AG-UI', 'MCP', 'CopilotKit', 'Langfuse', 'Hono'],
+        tools: ['Python', 'FastAPI', 'Typescript', 'ADK', 'A2A', 'AG-UI', 'MCP', 'CopilotKit', 'Langfuse'],
         role: 'Software Engineer',
         code: '',
         demo: '',
