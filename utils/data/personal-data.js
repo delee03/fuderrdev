@@ -13,6 +13,6 @@ export const personalData = {
     twitter: "https://x.com/ericpham03",
     stackOverflow: "https://stackoverflow.com/users/16301392/fuderr-pham",
     leetcode: "https://leetcode.com/fuderrpham/",
-    devUserName: "fuderrpham03",
+    devUserName: "ericpham03",
     resume: "https://drive.google.com/file/d/1QMbbqzsgbqrNmSD5bU5-DfMRbmeWLw4H/view?usp=drive_link",
 };
